@@ -19,8 +19,8 @@ When done print"File copied successfully".
 End of the program
 ## PROGRAM:
 ```
-Developed by: Azeez Ahamad
-Register Number: 23003977
+Developed by: JAYADEV PALLINTI
+Register Number: 212223240058
 
 import sys
 count=0
